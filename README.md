@@ -1,5 +1,7 @@
 # Object Storage Pricing Calculator
 
+[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-181717?logo=github)](https://github.com/aradabir007/object-storage-calculator)
+
 A simple, fast, and comprehensive calculator to compare object storage pricing across 21+ cloud providers. Built as a single HTML file with no backend required.
 
 ![Object Storage Calculator](https://img.shields.io/badge/Providers-21+-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Built with AI](https://img.shields.io/badge/Built%20with-AI-purple)
@@ -64,7 +66,7 @@ Simply open `index.html` in your browser or host it on any static file server.
 
 - **Frontend**: Vue.js 3 (CDN)
 - **Styling**: Tailwind CSS (CDN)
-- **Exchange Rate API**: [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api)
+- **Exchange Rate API**: [fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api)
 - **No Backend Required**: Everything runs client-side
 
 ## Important Notes
